@@ -1,0 +1,2 @@
+# ising
+The Ising model
